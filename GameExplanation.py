@@ -1,0 +1,16 @@
+class GameExplanation:
+
+    print ("Welcome to Rock, Paper, Scissors, Lizard, Spock. The rules are:")
+print ("Each player will 'pick their shot', either Rock, Paper, Lizard, Scissors or Spock")
+print ("Here's what Wins:")
+print ("scissors cuts paper")
+print ("paper covers rock")
+print ("rock crushes lizard")
+print ("lizard poisons Spock")
+print ("spock smashes scissors")
+print ("scissors decapitates lizard")
+print ("lizard eats paper")
+print ("paper disproves Spock")
+print ("Spock vaporizes rock")
+print ("and as it always has, rock crushes scissors")
+print ("Let's play a game...")

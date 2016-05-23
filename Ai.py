@@ -1,0 +1,4 @@
+import random
+
+Class Ai:
+
